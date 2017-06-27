@@ -1,0 +1,11 @@
+{
+  "name": "scourgify",
+  "version": "1.0.0",
+  "description": "Redact information from javascript objects with a key blacklist and/or value regexs. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Benjamin Conant conantbenjamin@gmail.com",
+  "license": "MIT"
+}
